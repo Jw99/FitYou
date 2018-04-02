@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitYou_02_04_2018.FeedView">
+  <ContentView.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <!--Listview-->
+            <Label Text="Feed Page!" FontSize="Large"/>
+        </StackLayout>
+    </ContentView.Content>
+</ContentView>

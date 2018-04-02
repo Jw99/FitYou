@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitYou_02_04_2018.MapView">
+    <ContentView.Content>
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Label Text="Map Page!" FontSize="Large"/>
+            <!--<maps:Map x:Name="MyMap"
+                IsShowingUser="true" 
+                MapType="Hybrid" />-->
+
+        </StackLayout>
+    
+    </ContentView.Content>
+</ContentView>
